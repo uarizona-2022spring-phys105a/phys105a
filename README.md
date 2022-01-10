@@ -28,7 +28,7 @@ None
 ### Instructor and Contact Information
 
 * Instructor: Chi-kwan "CK" Chan<br/>
-  Office Hour: TBD
+  Office Hour: Monday 1--2pm on [zoom](https://arizona.zoom.us/my/rndsrc) (please let CK know if plan to come to call into the office hour)
 * Teaching Assistant: Gabriele Bozzola<br/>
   Office Hour: TBD
 * Course home page: https://github.com/uarizona-2022spring-phys105a/phys105a
@@ -202,11 +202,11 @@ We plan to cover the following topics in PHYS 105A:
 \#     | Lecture                                  | Hands-on
 ---    | ---                                      | ---
 1      | Overview                                 | Sign up for accounts and set up development environment
-2      | Essential tools for scientific computing | Unix shells, remote login, version control, etc
-3      | The `python` programming language        | Jupyter Lab and `python` programming (assignment 10pts)
+2      | Essential tools for scientific computing | Unix shells, remote login, version control, compiled vs interpreted languages, etc
+3      | The `python` programming language        | `python` programming and tests (assignment 10pts)
 4      | Random numbers and Monte Carlo methods   | Monte Carlo in `python` (assignment 10pts)
 5      | The `C` programming language             | Monte Carlo in `C` (assignment 10pts)
-6      | Data processing with `python`            | Data processing with `python` (assignment 10pts); project planning
+6      | Data processing with `python`            | Jupyter and data processing with `python` (assignment 10pts); project planning
 7      | Numerical integration of functions       | Project (project 20pts)
 8      | Project presentations                    | Numerical integrator (assignment 10pts)
 9      | Root finding                             | Root finders (assignment 10pts)
