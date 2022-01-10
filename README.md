@@ -219,8 +219,6 @@ We plan to cover the following topics in PHYS 105A:
 
 ### Schedule
 
-Note that there is no Spring break in Spring 2021; instead, there are
-multiple "Reading Days" scatter around the semester.
 The different topics are scheduled to be covered in the following
 days.
 
