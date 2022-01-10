@@ -27,10 +27,13 @@ None
 
 ### Instructor and Contact Information
 
+Please let CK/Gabriele know if plan to come to call into the office hour.
+
 * Instructor: Chi-kwan "CK" Chan<br/>
-  Office Hour: Monday 1--2pm on [zoom](https://arizona.zoom.us/my/rndsrc) (please let CK know if plan to come to call into the office hour)
+  Office Hour: Monday 1--2pm on [zoom](https://arizona.zoom.us/my/rndsrc)
 * Teaching Assistant: Gabriele Bozzola<br/>
-  Office Hour: TBD
+  Office Hour: Wednesday 1--2pm on [zoom](https://arizona.zoom.us/my/bozzola)<br/>
+  Also available to meet in person upon request.
 * Course home page: https://github.com/uarizona-2022spring-phys105a/phys105a
 
 ### Expected Learning Outcomes
