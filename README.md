@@ -264,6 +264,14 @@ the University of Arizona.
 He is also a Data Science Fellow at the UArizona Data Science
 Institute.
 
+Gabriele Bozzola is a graduate student specializing in computational
+and theoretical astrophysics. He uses large-scale simulations to study
+binary black hole mergers and their emissions. Gabriele is deeply
+interested in scientific software and a fervent advocate for
+open-source and open-science. He develops and maintains a few packages
+and modules for numerical-relativity simulations and contributes to
+open-source projects. Gabriele is currently a NASA future investigator
+for space science.
 
 <!---------------------------------------------------------------------------->
 ## Policies and Code of Conduct
