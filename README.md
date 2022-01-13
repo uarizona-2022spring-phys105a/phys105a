@@ -173,8 +173,8 @@ simple point system:
 * E:  0–49.9 points
 
 No scaling will be applied.
-Nevertheless, the points for a student's worst two assignments or one
-project will not be counted.
+Nevertheless, the points for a student's worst 20 points worth of
+assignments or project will not be counted.
 
 **Incomplete (I) or Withdrawal (W):**
 Incomplete (I) or withdrawal (W) grades must be made in accordance
@@ -204,9 +204,9 @@ We plan to cover the following topics in PHYS 105A:
 
 \#     | Lecture                                  | Hands-on
 ---    | ---                                      | ---
-1      | Overview                                 | Sign up for accounts and set up development environment
+1      | Overview                                 | Sign up for accounts and set up development environment (assignment 5pts)
 2      | Essential tools for scientific computing | Unix shells, remote login, version control, compiled vs interpreted languages, etc
-3      | The `python` programming language        | `python` programming and tests (assignment 10pts)
+3      | The `python` programming language        | `python` programming and tests (assignment 5pts)
 4      | Random numbers and Monte Carlo methods   | Monte Carlo in `python` (assignment 10pts)
 5      | The `C` programming language             | Monte Carlo in `C` (assignment 10pts)
 6      | Data processing with `python`            | Jupyter and data processing with `python` (assignment 10pts); project planning
