@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 #
+#==============================================================================
 # 0. INTRODUCTION
 #
 # In this hands-on, we will introduce how to write a python script
@@ -27,8 +28,8 @@
 # between `program` and `script`.  So we will use these two terms
 # interchangeablely in this file.
 #
-# To start, let's go to THE END of this script and look for
-# "1. MAIN SECTION".
+# To start, let's go to line 69 near the end of this script and look
+# for "1. MAIN SECTION".
 #
 #==============================================================================
 # 2. AREA SOLVER
@@ -70,7 +71,7 @@ def area(r):
 # In software engineering, it is useful to break a program into
 # multiple smaller functions so you can test each function
 # independently.  In such a case, you will need a "driver script" that
-# process the command line argument and pass them to the different
+# processes the command line argument and passes them to the different
 # functions.  We will do exactly this in this main section.
 
 # Import the standard `argparse` package to help us process command
@@ -122,8 +123,8 @@ print("Compute the area of a circle with radius", r, " using the equation A = pi
 # However, this script cannot solve anything yet.  To start
 # programming an area solver, you need to
 #
-# TODO: uncomment the following lines
+# TODO: uncomment the last two lines of this script
 #
-# and then jump to the section "2. AREA SOLVER"
+# and then jump to the section "2. AREA SOLVER" on line 35.
 #A = area(r)
 #print("A =", A)
